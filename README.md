@@ -50,6 +50,6 @@ src/
 
 ## Getting an API Key
 
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/api)
+1. Sign up at [WeatherAPI]([https://openweathermap.org/api](https://www.weatherapi.com/my/))
 2. Generate an API key
 3. Add the API key to your `.env` file
